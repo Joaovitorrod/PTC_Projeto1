@@ -16,7 +16,7 @@ O desenvolvimento do protocolo da sua equipe será realizado aqui no Github. Seg
 * Fique atento a prazos ! Veja sempre no Moodle as tarefas do projeto, e procure acompanhar o ritmo dos trabalhos. Se tiver problemas, contate o professor.
 
 <p align="center">
-  <img src="https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/exercicio_maq_estados_PTC.png" width="350" title="Máquina de estados Enquadramento">
+  <img src="https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/exercicio_maq_estados_PTC.png" width="500" title="Máquina de estados Enquadramento">
   <img src="https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/exercicio_maq_estados_PTC.pdf" width="350" alt="accessibility text">
 </p>
 ![Máquina de estados Enquadramento](https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/exercicio_maq_estados_PTC.pdf)
