@@ -13,9 +13,8 @@ O protocolo de enlace a ser desenvolvido implementa um serviço com estas caract
 O desenvolvimento do protocolo da sua equipe será realizado aqui no Github. Seguem orientações:
 * Use [Issues](issues) para comunicação com o professor, e entre os membros da equipe. Por ali muitas dúvidas poderão ser resolvidas em relação ao seu projeto !
 * Organize seu projeto em quadros usando [Projects](projects). Define um quadro para tarefas a iniciar, outra para tarefas em andamento, e uma terceira para tarefas concluídas. Se achar melhor, organize suas tarefas de outras maneiras ali. Aplique o que aprendeu em Projeto Integrador II !
-* Fique atento a prazos ! Veja sempre no Moodle as tarefas do projeto, e procure acompanhar o ritmo dos trabalhos. Se tiver problemas, contate o professor.
-
+* Fique atento a prazos ! Veja sempre no Moodle as tarefas do projeto, e procure acompanhar o ritmo dos trabalhos. Se tiver problemas, contate o professor.<br/><br/>
 
 <p align="center"> <a href="https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/Resources/state_machines/Enquadramento/exercicio_maq_estados_PTC.pdf">
   <img src="https://github.com/Joaovitorrod/PTC_Projeto1/blob/master/Resources/state_machines/Enquadramento/exercicio_maq_estados_PTC.png" width="700" title="Máquina de estados Enquadramento">
-</p>
+</p><br/><br/>
